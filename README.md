@@ -43,7 +43,7 @@ This is a great start to a coffee website for the Meoffee brand! Here's a breakd
 
 # Content:
 
-* The hero section effectively captures attention with a strong headline, call to action buttons, and an image.
+* The home section effectively captures attention with a strong headline, call to action buttons, and an image.
 * The "About Us" section uses the provided description about Meoffee's coffee and its focus on relaxation.
 * The "Services" and "Why Us" sections showcase your offerings with descriptions and images.
 
